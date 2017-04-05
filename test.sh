@@ -8,10 +8,7 @@ echo "Testing hwInput_2_quoted"
 python helloworld.py < hwInput_2_quoted.txt
 echo "Testing hwInput_Cody"
 python helloworld.py < hwInput_Cody.txt
-<<<<<<< HEAD
 echo "Testing hwInput_Nick"
 python helloworld.py < hwInput_Nick.txt
-=======
 echo "Testing hwInput_Duncan"
 python helloworld.py < hwInput_Duncan.txt
->>>>>>> origin/master
