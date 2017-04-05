@@ -6,6 +6,6 @@ python:
 
 script: 
   # - python helloworld.py
-  # - python helloleo.py
-  - sh test.sh
+  - python helloleo.py
+  # - sh test.sh
 
