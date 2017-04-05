@@ -5,8 +5,5 @@ python:
  - "3.4"
 
 script:
-# - python helloworld.py
- - sh test.sh
-
-#before_install:
-# - pip install coverage
+	- python helloCalum.py
+  - sh test.sh
