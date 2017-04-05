@@ -6,4 +6,4 @@ python:
 
 script:
 	- python helloCalum.py
-  - sh test.sh
+  #- sh test.sh
