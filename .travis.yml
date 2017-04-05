@@ -6,3 +6,4 @@ python:
 
 script: 
   - python helloworld.py
+  - python leo.py
