@@ -5,5 +5,5 @@ python:
  - "3.4"
 
 script:
-	- python helloCalum.py
-  #- sh test.sh
+- python helloCalum.py
+ #- sh test.sh
